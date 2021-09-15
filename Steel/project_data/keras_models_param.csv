@@ -1,0 +1,9 @@
+model,g_param,train_time,score,pred_time,test_score
+KerasLinearReg,"{'lr': 0.05, 'eph': 1002}",51.6,-44.3,0.06,-103.56
+KerasLinearReg,"{'lr': 0.04, 'eph': 1223}",63.18,-44.25,0.06,-103.83
+KerasLinearReg,"{'lr': 0.03, 'eph': 1590}",83.0,-44.18,0.06,-104.16
+KerasLinearReg,"{'lr': 0.060000000000000005, 'eph': 860}",43.85,-44.19,0.07,-104.27
+KerasLinearReg,"{'lr': 0.06999999999999999, 'eph': 757}",38.5,-44.15,0.06,-104.55
+KerasLinearReg,"{'lr': 0.08, 'eph': 681}",34.51,-44.14,0.06,-104.92
+KerasLinearReg,"{'lr': 0.02, 'eph': 2000}",101.89,-197.34,0.06,-197.18
+KerasLinearReg,"{'lr': 0.01, 'eph': 2000}",105.03,-879.48,0.06,-879.32

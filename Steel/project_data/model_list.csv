@@ -1,0 +1,17 @@
+model,g_param,train_time,score,pred_time,test_score
+LinearReg,{},1.91,-5.7613,-,-
+LGBMReg,"{'learning_rate': 0.7, 'max_depth': 1, 'n_estimators': 81}",0.06,-5.8091,-,-
+LGBMReg,"{'learning_rate': 0.7, 'max_depth': 1, 'n_estimators': 91}",0.07,-5.8158,-,-
+LGBMReg,"{'learning_rate': 0.1, 'max_depth': 51, 'n_estimators': 81}",0.18,-5.818,-,-
+LGBMReg,"{'learning_rate': 0.1, 'max_depth': 71, 'n_estimators': 81}",0.18,-5.818,-,-
+LGBMReg,"{'learning_rate': 0.1, 'max_depth': 91, 'n_estimators': 81}",0.19,-5.818,-,-
+RndForestReg,"{'max_depth': 31, 'n_estimators': 71}",0.96,-5.943,-,-
+RndForestReg,"{'max_depth': 91, 'n_estimators': 71}",1.03,-5.944,-,-
+RndForestReg,"{'max_depth': 81, 'n_estimators': 71}",0.88,-5.944,-,-
+RndForestReg,"{'max_depth': 71, 'n_estimators': 71}",0.93,-5.944,-,-
+RndForestReg,"{'max_depth': 61, 'n_estimators': 71}",0.93,-5.944,-,-
+DecTreeReg,{'max_depth': 11},0.08,-7.6526,-,-
+DecTreeReg,{'max_depth': 1},1.12,-7.9092,-,-
+DecTreeReg,{'max_depth': 21},0.06,-8.1224,-,-
+DecTreeReg,{'max_depth': 31},0.05,-8.2136,-,-
+DecTreeReg,{'max_depth': 41},0.05,-8.2136,-,-

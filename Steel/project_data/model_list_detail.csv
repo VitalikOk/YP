@@ -1,0 +1,5 @@
+model,g_param,train_time,score,pred_time,test_score
+LGBMReg,"{'learning_rate': 0.2, 'max_depth': 3, 'n_estimators': 82}",0.06,5.7692,0.0,5.78
+RndForestReg,"{'max_depth': 31, 'n_estimators': 71}",0.97,5.943,0.02,6.14
+DecTreeReg,{'max_depth': 6},0.04,6.9059,0.0,7.42
+LinearReg,{},0.05,5.7613,0.0,12.46
