@@ -8,7 +8,11 @@
 
 Столбец *text* нём содержит текст комментария, а *toxic* — целевой признак.
 
-
-```python
-
-```
+# Используемые библиотеки
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- sklearn
+- lightgbm
+- nltk
